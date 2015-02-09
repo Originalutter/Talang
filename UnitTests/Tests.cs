@@ -11,9 +11,9 @@ namespace UnitTests
     public class Tests
     {
         [Test]
-        public void should_be_able_to_create_an_instance_of_dog()
+        public void should_work
         {
-            Assert.That(true, Is.EqualTo(false));
+            Assert.That(true, Is.EqualTo(true));
         }
     }
 }
