@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLApp", "ConsoleApplication1\SQLApp.csproj", "{AC6F48FC-9218-4190-A425-8708FDC69A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalangMVC", "..\..\..\..\..\..\TalangMVC\TalangMVC\TalangMVC.csproj", "{EE3A0E08-9091-47B2-9DFE-9573C374E08B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApp", "HelloWorldApp\HelloWorldApp.csproj", "{159CE312-952F-4340-B8AE-0445866A7B9F}"
 EndProject
 Global
@@ -37,10 +35,6 @@ Global
 		{AC6F48FC-9218-4190-A425-8708FDC69A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC6F48FC-9218-4190-A425-8708FDC69A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC6F48FC-9218-4190-A425-8708FDC69A78}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE3A0E08-9091-47B2-9DFE-9573C374E08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE3A0E08-9091-47B2-9DFE-9573C374E08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE3A0E08-9091-47B2-9DFE-9573C374E08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE3A0E08-9091-47B2-9DFE-9573C374E08B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{159CE312-952F-4340-B8AE-0445866A7B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{159CE312-952F-4340-B8AE-0445866A7B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{159CE312-952F-4340-B8AE-0445866A7B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
