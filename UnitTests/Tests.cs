@@ -11,7 +11,7 @@ namespace UnitTests
     public class Tests
     {
         [Test]
-        public void should_work
+        public void should_work()
         {
             Assert.That(true, Is.EqualTo(true));
         }
